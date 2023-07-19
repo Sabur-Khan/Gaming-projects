@@ -1,0 +1,334 @@
+@media (max-width: 576px) {
+    .container{
+        width: 100%;
+    }
+    .navbar-container {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .nav-item {
+        flex-direction: column;
+        align-items: center;
+    }
+    .nav-item .nav-link {
+        margin-bottom: 17px;
+    }
+    .banner-content {
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+    .banner-left-content {
+        width: 100%;
+        margin-top: 36px;
+    }
+    .banner-left-content h2 {
+        font-size: 30px;
+    }
+    .banner-left-content span {
+        font-size: 41px;
+    }
+    .banner-left-option {
+        padding: 0px 10px;
+        margin-bottom: 50px;
+    }
+    .banner-left-option > li ol {
+        font-size: 14px;
+    }
+    .banner-button .sign-in {
+        font-size: 14px;
+        padding: 12px 18px;
+    }
+    .banner-button .go-rogue {
+        font-size: 14px;
+        padding: 12px 18px;
+    }
+    .banner-right-content{
+        width: 100%;
+    }
+    .banner-right-content .banner-right-img{
+        width: 100%;
+    }
+    .banner-right-content{
+        margin-top: 50px;
+    }
+
+    #gamer {
+        padding-top: 72px;
+    }
+    .gamer-wrapper {
+        flex-direction: column;
+    }
+    .gamer-right .gamer-right-title {
+        text-align: center;
+        font-size: 35px;
+    }
+    .gamer-right p {
+        text-align: center;
+        font-family: 'Work Sans', sans-serif;
+        width: 100%;
+        padding: 0px 10px;
+        margin-bottom: 30px;
+    }
+    .gamer-right .gamer-right-button {
+        transform: translateX(-54px);
+    }
+    .gamer-right h4 {
+        margin-top: 109px;
+    }
+    .gamer-right span {
+        font-size: 18px;
+        padding-left: 20px;
+    }
+    .funny-video-card {
+        flex-direction: column;
+    }
+    .funny-video-card-body {
+        width: 100%;
+    }
+    .funny-video-overlay {
+        width: 90%;
+    }
+    .card-img img {
+        height: 100%;
+        width: 90%;
+    }
+    .card-details {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .card-details p {
+        font-size: 19px;
+        width: 93%;
+    }
+    .play-instantly-wrapper {
+        flex-direction: column;
+    }
+    .play-instantly-wrapper .play-instantly-left {
+        width: 100%;
+    }
+    .play-instantly-wrapper .play-instantly-left h2 {
+        width: 100%;
+    }
+    .play-instantly-right .right-first-img {
+        width: 84%;
+    }
+    .play-instantly-right {
+        text-align: center;
+    }
+    .play-instantly-right .right-second-img {
+        left: 4px;
+        bottom: -22px;
+        width: 49%;
+    }
+    .careers-wrapper {
+        flex-direction: column;
+    }
+    .careers-left {
+        width: 100%;
+        text-align: center;
+    }
+    .careers-item {
+        flex-direction: column;
+    }
+    .careers-item .careers-item-left {
+        width: 100%;
+    }
+    .careers-item .careers-item-left span {
+        font-size: 18px;
+    }
+    .careers-item .careers-item-right {
+        text-align: center;
+    }
+    .careers-item .careers-item-right {
+        width: 100%;
+    }
+    .careers-right img {
+        width: 100%;
+    }
+    .our-client-wrapper {
+        align-items: start;
+        flex-direction: column;
+    }
+    .first-client {
+        width: 100%;
+    }
+    .first-one {
+        margin-top: 1px;
+    }
+    .footer-menu {
+        flex-direction: column;
+    }
+    .footer-menucontent {
+        width: 100%;
+    }
+    .footer-li{
+        margin-bottom: 20px;
+    }
+}   
+@media (main-width: 576px) and (max-width: 768px){
+    .container{
+        width: 100%;
+    }
+    .navbar-container {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .nav-item {
+        flex-direction: column;
+        align-items: center;
+    }
+    .nav-item .nav-link {
+        margin-bottom: 17px;
+    }
+    .banner-content {
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+    .banner-left-content {
+        width: 100%;
+        margin-top: 36px;
+    }
+    .banner-left-content h2 {
+        font-size: 30px;
+    }
+    .banner-left-content span {
+        font-size: 41px;
+    }
+    .banner-left-option {
+        padding: 0px 10px;
+        margin-bottom: 50px;
+    }
+    .banner-left-option > li ol {
+        font-size: 14px;
+    }
+    .banner-button .sign-in {
+        font-size: 14px;
+        padding: 12px 18px;
+    }
+    .banner-button .go-rogue {
+        font-size: 14px;
+        padding: 12px 18px;
+    }
+    .banner-right-content{
+        width: 100%;
+    }
+    .banner-right-content .banner-right-img{
+        width: 100%;
+    }
+    .banner-right-content{
+        margin-top: 50px;
+    }
+
+    #gamer {
+        padding-top: 72px;
+    }
+    .gamer-wrapper {
+        flex-direction: column;
+    }
+    .gamer-right .gamer-right-title {
+        text-align: center;
+        font-size: 35px;
+    }
+    .gamer-right p {
+        text-align: center;
+        font-family: 'Work Sans', sans-serif;
+        width: 100%;
+        padding: 0px 10px;
+        margin-bottom: 30px;
+    }
+    .gamer-right .gamer-right-button {
+        transform: translateX(-54px);
+    }
+    .gamer-right h4 {
+        margin-top: 109px;
+    }
+    .gamer-right span {
+        font-size: 18px;
+        padding-left: 20px;
+    }
+    .funny-video-card {
+        flex-direction: column;
+    }
+    .funny-video-card-body {
+        width: 100%;
+    }
+    .funny-video-overlay {
+        width: 90%;
+    }
+    .card-img img {
+        height: 100%;
+        width: 90%;
+    }
+    .card-details {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .card-details p {
+        font-size: 19px;
+        width: 93%;
+    }
+    .play-instantly-wrapper {
+        flex-direction: column;
+    }
+    .play-instantly-wrapper .play-instantly-left {
+        width: 100%;
+    }
+    .play-instantly-wrapper .play-instantly-left h2 {
+        width: 100%;
+    }
+    .play-instantly-right .right-first-img {
+        width: 84%;
+    }
+    .play-instantly-right {
+        text-align: center;
+    }
+    .play-instantly-right .right-second-img {
+        left: 4px;
+        bottom: -22px;
+        width: 49%;
+    }
+    .careers-wrapper {
+        flex-direction: column;
+    }
+    .careers-left {
+        width: 100%;
+        text-align: center;
+    }
+    .careers-item {
+        flex-direction: column;
+    }
+    .careers-item .careers-item-left {
+        width: 100%;
+    }
+    .careers-item .careers-item-left span {
+        font-size: 18px;
+    }
+    .careers-item .careers-item-right {
+        text-align: center;
+    }
+    .careers-item .careers-item-right {
+        width: 100%;
+    }
+    .careers-right img {
+        width: 100%;
+    }
+    .our-client-wrapper {
+        align-items: start;
+        flex-direction: column;
+    }
+    .first-client {
+        width: 100%;
+    }
+    .first-one {
+        margin-top: 1px;
+    }
+    .footer-menu {
+        flex-direction: column;
+    }
+    .footer-menucontent {
+        width: 100%;
+    }
+    .footer-li{
+        margin-bottom: 20px;
+    }
+}   
